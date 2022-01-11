@@ -159,9 +159,4 @@ function Student()
 
     }
 
-    else 
-    {
-        console.log("we do not have that student!")
-    }
-
 }
